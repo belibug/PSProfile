@@ -1,0 +1,1 @@
+Write-Host 'This is alias.ps1' -ForegroundColor Green
